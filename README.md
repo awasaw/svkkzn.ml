@@ -1,0 +1,2 @@
+# svkkzn.ml
+github.pages
